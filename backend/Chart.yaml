@@ -1,0 +1,5 @@
+apiVersion: v2
+name: backend
+description: This is a backend deployment
+version: 1.0.0
+appversion: 1.2.0
